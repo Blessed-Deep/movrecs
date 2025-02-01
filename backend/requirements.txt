@@ -1,0 +1,4 @@
+google-generativeai
+fastapi
+neo4j
+selenium
