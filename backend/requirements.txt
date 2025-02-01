@@ -1,4 +1,11 @@
-google-generativeai
 fastapi
+uvicorn
 neo4j
+pydantic
+google-generativeai
+pandas
+numpy
+scikit-learn
+sentence-transformers
 selenium
+webdriver-manager
