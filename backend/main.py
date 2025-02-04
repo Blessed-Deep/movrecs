@@ -17,11 +17,17 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.options import Options
 
+# from pyngrok import ngrok
+
+# port = 8000  
+# public_url = ngrok.connect(port).public_url
+# print("Public URL:", public_url)
 
 
 
 # Pre-trained embedding model
 embedding_model = SentenceTransformer('all-MiniLM-L6-v2')
+
 
 
 

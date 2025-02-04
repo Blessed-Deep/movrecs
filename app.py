@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Define the FastAPI endpoint
-FASTAPI_ENDPOINT = "http://127.0.0.1:8000/get_movie_recommendations"
+FASTAPI_ENDPOINT = "https://726a-157-41-243-225.ngrok-free.app/get_movie_recommendations"
 
 # Streamlit App Title
 st.title("Movies Made Easy")
